@@ -13,7 +13,7 @@ Vagrant.configure("2") do |config|
    
   #config.vm.provision :shell, path: "script.sh"
   #config.vm.provision :shell, path: "update.sh"
-  config.vm.provision :shell, path: "3second.sh"
+  #config.vm.provision :shell, path: "3second.sh"
   
   
    
